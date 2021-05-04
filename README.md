@@ -1,3 +1,7 @@
+
+<img src="https://user-images.githubusercontent.com/49343277/117003326-b7a2fb80-acb2-11eb-94e1-92e25840d150.png" width="100">
+
+
 # Customer Data Analysis
 
 **1. Datasets**
